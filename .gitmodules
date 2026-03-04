@@ -1,0 +1,15 @@
+[submodule "Taller01"]
+	path = Taller01
+	url = https://github.com/hubersteven/Taller01.git
+[submodule "festivos"]
+	path = festivos
+	url = https://github.com/sebastianmora3/festivos.git
+[submodule "festivos-frontend"]
+	path = festivos-frontend
+	url = https://github.com/sebastianmora3/festivos-frontend.git
+[submodule "UDEA_AS_apiCampeonatosFIFA"]
+	path = UDEA_AS_apiCampeonatosFIFA
+	url = https://github.com/frayosorio/UDEA_AS_apiCampeonatosFIFA.git
+[submodule "UDEA_AS_CampeonatosFIFA"]
+	path = UDEA_AS_CampeonatosFIFA
+	url = https://github.com/frayosorio/UDEA_AS_CampeonatosFIFA.git
